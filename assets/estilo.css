@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');
+
+.logo{
+	font-family: 'Fugaz One', cursive;
+}
+
+.azul{
+	color:blue;
+}
+
+.tamanho{
+	font-size: 12px;
+}
+
+.circulo{
+	background-color: blue;
+	color:white;
+	border-radius:100%;
+	font-family: 'Patrick Hand', cursive;
+}
